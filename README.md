@@ -1,2 +1,3 @@
 # PersistingReactStateInLocalStorage
-Created with CodeSandbox
+
+Hook to set and get state from localStorage.
